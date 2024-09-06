@@ -1,8 +1,13 @@
 body{
 	background-color: black;
 	color: white;
+	text-align: center;
 }
 .but1{
-	background-color: green;
-	color: blue;
+	background-color: red;
+	color: magenta;
+	border-radius: 50%;
+}
+h1{
+	border: 10px solid red;
 }
